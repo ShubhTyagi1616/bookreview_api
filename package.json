@@ -1,0 +1,19 @@
+{
+  "name": "bookreview-api",
+  "version": "1.0.0",
+  "description": "this is a bookreview-api sample to review the books of famous authors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "bookreview-api": "file:",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0"
+  }
+}
